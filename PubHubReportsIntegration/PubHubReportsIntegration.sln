@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "PubHubReportsIntegration", "PubHubReportsIntegration\PubHubReportsIntegration.dtproj", "{F4C47189-ACA8-4B17-8D1E-4E101D5295B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C47189-ACA8-4B17-8D1E-4E101D5295B1}.Development|Default.ActiveCfg = Development
+		{F4C47189-ACA8-4B17-8D1E-4E101D5295B1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {260B3654-66A6-41BA-BE25-7A0447B3811D}
+	EndGlobalSection
+EndGlobal
